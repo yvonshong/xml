@@ -1,0 +1,63 @@
+*******start parsing the xml document*******
+element: [songs] start parsing!
+element: [song] start parsing!
+attribute_name:song_id attribute_value:27646295
+element: [songName] start parsing!
+element_value: 安和桥
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:5073
+element_value: 宋东野
+element: [time] start parsing!
+element_value: 04:11
+element: [album] start parsing!
+attribute_name:album_id attribute_value:2646285
+element_value: 安和桥北
+element: [releaseDate] start parsing!
+element_value: 2016-02-29
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 9.0
+element: [song] start parsing!
+attribute_name:song_id attribute_value:145244
+element: [songName] start parsing!
+element_value: 岁月
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:4937
+element_value: 沈庆
+element: [time] start parsing!
+element_value: 04:53
+element: [album] start parsing!
+attribute_name:album_id attribute_value:14533
+element_value: 这么多年以来
+element: [releaseDate] start parsing!
+element_value: 2015-02-24
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 8.1
+element: [song] start parsing!
+attribute_name:song_id attribute_value:202373
+element: [songName] start parsing!
+element_value: 南方姑娘
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:6731
+element_value: 赵雷
+element: [time] start parsing!
+element_value: 05:32
+element: [album] start parsing!
+attribute_name:album_id attribute_value:20339
+element_value: 赵小雷
+element: [releaseDate] start parsing!
+element_value: 2016-07-22
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 8.0
+*******end parsing the xml document*******

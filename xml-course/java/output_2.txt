@@ -1,0 +1,403 @@
+*******start parsing the xml document*******
+element: [songs] start parsing!
+element: [song] start parsing!
+attribute_name:song_id attribute_value:110236
+element: [songName] start parsing!
+element_value: 异乡人
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:3695
+element_value: 李健
+element: [time] start parsing!
+element_value: 03:47
+element: [album] start parsing!
+attribute_name:album_id attribute_value:10908
+element_value: 想念你
+element: [releaseDate] start parsing!
+element_value: 2015-02-21
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 7.9
+element: [song] start parsing!
+attribute_name:song_id attribute_value:264185118
+element: [songName] start parsing!
+element_value: 想念你
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:3695
+element_value: 李健
+element: [time] start parsing!
+element_value: 03:47
+element: [album] start parsing!
+attribute_name:album_id attribute_value:10908
+element_value: 想念你
+element: [releaseDate] start parsing!
+element_value: 2015-04-29
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 8.6
+element: [song] start parsing!
+attribute_name:song_id attribute_value:264185119
+element: [songName] start parsing!
+element_value: 超越
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:3695
+element_value: 李健
+element: [time] start parsing!
+element_value: 03:47
+element: [album] start parsing!
+attribute_name:album_id attribute_value:10908
+element_value: 想念你
+element: [releaseDate] start parsing!
+element_value: 2015-05-22
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 8.3
+element: [song] start parsing!
+attribute_name:song_id attribute_value:264185120
+element: [songName] start parsing!
+element_value: 天狐
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:3695
+element_value: 李健
+element: [time] start parsing!
+element_value: 03:47
+element: [album] start parsing!
+attribute_name:album_id attribute_value:10908
+element_value: 想念你
+element: [releaseDate] start parsing!
+element_value: 2005-02-22
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 8.2
+element: [song] start parsing!
+attribute_name:song_id attribute_value:264185117
+element: [songName] start parsing!
+element_value: 童年
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:3695
+element_value: 李健
+element: [time] start parsing!
+element_value: 03:57
+element: [album] start parsing!
+attribute_name:album_id attribute_value:10908
+element_value: 想念你
+element: [releaseDate] start parsing!
+element_value: 2014-01-23
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 8.9
+element: [song] start parsing!
+attribute_name:song_id attribute_value:27646295
+element: [songName] start parsing!
+element_value: 安和桥
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:5073
+element_value: 宋东野
+element: [time] start parsing!
+element_value: 04:11
+element: [album] start parsing!
+attribute_name:album_id attribute_value:2646285
+element_value: 安和桥北
+element: [releaseDate] start parsing!
+element_value: 2016-02-29
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 9.0
+element: [song] start parsing!
+attribute_name:song_id attribute_value:264185111
+element: [songName] start parsing!
+element_value: 斑马，斑马
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:5073
+element_value: 宋东野
+element: [time] start parsing!
+element_value: 04:11
+element: [album] start parsing!
+attribute_name:album_id attribute_value:2646285
+element_value: 安和桥北
+element: [releaseDate] start parsing!
+element_value: 2015-12-29
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 8.7
+element: [song] start parsing!
+attribute_name:song_id attribute_value:264185112
+element: [songName] start parsing!
+element_value: 董小姐
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:5073
+element_value: 宋东野
+element: [time] start parsing!
+element_value: 04:11
+element: [album] start parsing!
+attribute_name:album_id attribute_value:2646285
+element_value: 安和桥北
+element: [releaseDate] start parsing!
+element_value: 2014-02-25
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 9.2
+element: [song] start parsing!
+attribute_name:song_id attribute_value:264185115
+element: [songName] start parsing!
+element_value: 鸽子
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:5073
+element_value: 宋东野
+element: [time] start parsing!
+element_value: 04:13
+element: [album] start parsing!
+attribute_name:album_id attribute_value:2646285
+element_value: 安和桥北
+element: [releaseDate] start parsing!
+element_value: 2011-02-03
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 9.0
+element: [song] start parsing!
+attribute_name:song_id attribute_value:264185116
+element: [songName] start parsing!
+element_value: 风吹麦浪
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:3695
+element_value: 李健
+element: [time] start parsing!
+element_value: 04:22
+element: [album] start parsing!
+attribute_name:album_id attribute_value:10908
+element_value: 想念你
+element: [releaseDate] start parsing!
+element_value: 2015-01-29
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 9.5
+element: [song] start parsing!
+attribute_name:song_id attribute_value:264185114
+element: [songName] start parsing!
+element_value: 关忆北
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:5073
+element_value: 宋东野
+element: [time] start parsing!
+element_value: 04:25
+element: [album] start parsing!
+attribute_name:album_id attribute_value:2646285
+element_value: 安和桥北
+element: [releaseDate] start parsing!
+element_value: 2012-02-29
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 9.3
+element: [song] start parsing!
+attribute_name:song_id attribute_value:26241457
+element: [songName] start parsing!
+element_value: 流浪者
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:13363
+element_value: 小舟与旅行者
+element: [time] start parsing!
+element_value: 04:47
+element: [album] start parsing!
+attribute_name:album_id attribute_value:2430939
+element_value: 罗布泊
+element: [releaseDate] start parsing!
+element_value: 2015-02-22
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 9.2
+element: [song] start parsing!
+attribute_name:song_id attribute_value:264185113
+element: [songName] start parsing!
+element_value: 莉莉安
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:5073
+element_value: 宋东野
+element: [time] start parsing!
+element_value: 04:47
+element: [album] start parsing!
+attribute_name:album_id attribute_value:2646285
+element_value: 安和桥北
+element: [releaseDate] start parsing!
+element_value: 2015-04-29
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 9.4
+element: [song] start parsing!
+attribute_name:song_id attribute_value:145244
+element: [songName] start parsing!
+element_value: 岁月
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:4937
+element_value: 沈庆
+element: [time] start parsing!
+element_value: 04:53
+element: [album] start parsing!
+attribute_name:album_id attribute_value:14533
+element_value: 这么多年以来
+element: [releaseDate] start parsing!
+element_value: 2015-02-24
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 8.1
+element: [song] start parsing!
+attribute_name:song_id attribute_value:191117
+element: [songName] start parsing!
+element_value: 牧歌
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:6474
+element_value: 钟立风
+element: [time] start parsing!
+element_value: 05:09
+element: [album] start parsing!
+attribute_name:album_id attribute_value:19302
+element_value: 像牧歌一样忧伤
+element: [releaseDate] start parsing!
+element_value: 2015-03-29
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 8.8
+element: [song] start parsing!
+attribute_name:song_id attribute_value:202373
+element: [songName] start parsing!
+element_value: 南方姑娘
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:6731
+element_value: 赵雷
+element: [time] start parsing!
+element_value: 05:32
+element: [album] start parsing!
+attribute_name:album_id attribute_value:20339
+element_value: 赵小雷
+element: [releaseDate] start parsing!
+element_value: 2016-07-22
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 8.0
+element: [song] start parsing!
+attribute_name:song_id attribute_value:26427662
+element: [songName] start parsing!
+element_value: 一个人的北京
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:711683
+element_value: 好妹妹乐队
+element: [time] start parsing!
+element_value: 05:52
+element: [album] start parsing!
+attribute_name:album_id attribute_value:2497096
+element_value: 南北
+element: [releaseDate] start parsing!
+element_value: 2015-04-21
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 8.4
+element: [song] start parsing!
+attribute_name:song_id attribute_value:26494698
+element: [songName] start parsing!
+element_value: 米店
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:173002
+element_value: 张伟伟和郭龙
+element: [time] start parsing!
+element_value: 05:56
+element: [album] start parsing!
+attribute_name:album_id attribute_value:2508224
+element_value: 白银饭店
+element: [releaseDate] start parsing!
+element_value: 2015-02-12
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 7.5
+element: [song] start parsing!
+attribute_name:song_id attribute_value:28381611
+element: [songName] start parsing!
+element_value: 北方的女王（demo）
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:4903
+element_value: 尧十三
+element: [time] start parsing!
+element_value: 05:57
+element: [album] start parsing!
+attribute_name:album_id attribute_value:2785070
+element_value: 北方的女王
+element: [releaseDate] start parsing!
+element_value: 2015-06-29
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 8.5
+element: [song] start parsing!
+attribute_name:song_id attribute_value:26418516
+element: [songName] start parsing!
+element_value: 九月（第三版）
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:6461
+element_value: 周云蓬
+element: [time] start parsing!
+element_value: 06:04
+element: [album] start parsing!
+attribute_name:album_id attribute_value:2489090
+element_value: 清炒苦瓜
+element: [releaseDate] start parsing!
+element_value: 2015-07-29
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 7.5
+*******end parsing the xml document*******

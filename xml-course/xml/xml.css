@@ -1,0 +1,32 @@
+
+	span {
+		font-family: 'Courier New';
+		font-size: 10pt;
+		color: #000000;
+	}
+	.sc0 {
+		font-weight: bold;
+	}
+	.sc1 {
+		color: #0000FF;
+	}
+	.sc3 {
+		color: #FF0000;
+	}
+	.sc6 {
+		font-weight: bold;
+		color: #8000FF;
+	}
+	
+	.sc12 {
+		color: #FF0000;
+		background: #FFFF00;
+	}
+	.sc13 {
+		color: #FF0000;
+		background: #FFFF00;
+	}
+	.sc21 {
+		background: #A6CAF0;
+	}
+	

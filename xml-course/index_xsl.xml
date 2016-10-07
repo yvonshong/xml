@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xml/index_xsl.xsl"?>
+
+<group>
+	<number>8</number>
+	<name>Sandalphon</name>
+	<introduction>To write the design of DTD, schema and some codes about XML in the course of XML Technology of SEU..</introduction>
+	<member>
+		<person>
+			<name>Zhang Leiming</name>
+			<stu_number>71113319</stu_number>
+			<duty>Leader</duty>
+			<phone_number>18795881000</phone_number>
+			<email>522571362@qq.com</email>
+		</person>
+		<person>
+			<name>Song Daiwei</name>
+			<stu_number>71113334</stu_number>
+			<duty>Coder</duty>
+			<phone_number>18795882000</phone_number>
+			<email>yvon-shong@foxmail.com</email>
+		</person>
+		<person>
+			<name>Han Chang</name>
+			<stu_number>71113317</stu_number>
+			<duty>Coder</duty>
+			<phone_number>18795883000</phone_number>
+			<email>hanchang_96@163.com</email>
+		</person>		
+	</member>
+</group>

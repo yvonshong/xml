@@ -1,0 +1,202 @@
+<songs>
+    <song song_id="264185120">
+        <songName>天狐</songName>
+        <artist artist_id="3695">李健</artist>
+        <time>03:47</time>
+        <album album_id="10908">想念你</album>
+        <releaseDate>2005-02-22</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>8.2</score>
+    </song>
+    <song song_id="264185115">
+        <songName>鸽子</songName>
+        <artist artist_id="5073">宋东野</artist>
+        <time>04:13</time>
+        <album album_id="2646285">安和桥北</album>
+        <releaseDate>2011-02-03</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>9.0</score>
+    </song>
+    <song song_id="264185114">
+        <songName>关忆北</songName>
+        <artist artist_id="5073">宋东野</artist>
+        <time>04:25</time>
+        <album album_id="2646285">安和桥北</album>
+        <releaseDate>2012-02-29</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>9.3</score>
+    </song>
+    <song song_id="264185117">
+        <songName>童年</songName>
+        <artist artist_id="3695">李健</artist>
+        <time>03:57</time>
+        <album album_id="10908">想念你</album>
+        <releaseDate>2014-01-23</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>8.9</score>
+    </song>
+    <song song_id="264185112">
+        <songName>董小姐</songName>
+        <artist artist_id="5073">宋东野</artist>
+        <time>04:11</time>
+        <album album_id="2646285">安和桥北</album>
+        <releaseDate>2014-02-25</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>9.2</score>
+    </song>
+    <song song_id="264185116">
+        <songName>风吹麦浪</songName>
+        <artist artist_id="3695">李健</artist>
+        <time>04:22</time>
+        <album album_id="10908">想念你</album>
+        <releaseDate>2015-01-29</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>9.5</score>
+    </song>
+    <song song_id="26494698">
+        <songName>米店</songName>
+        <artist artist_id="173002">张伟伟和郭龙</artist>
+        <time>05:56</time>
+        <album album_id="2508224">白银饭店</album>
+        <releaseDate>2015-02-12</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>7.5</score>
+    </song>
+    <song song_id="110236">
+        <songName>异乡人</songName>
+        <artist artist_id="3695">李健</artist>
+        <time>03:47</time>
+        <album album_id="10908">想念你</album>
+        <releaseDate>2015-02-21</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>7.9</score>
+    </song>
+    <song song_id="26241457">
+        <songName>流浪者</songName>
+        <artist artist_id="13363">小舟与旅行者</artist>
+        <time>04:47</time>
+        <album album_id="2430939">罗布泊</album>
+        <releaseDate>2015-02-22</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>9.2</score>
+    </song>
+    <song song_id="145244">
+        <songName>岁月</songName>
+        <artist artist_id="4937">沈庆</artist>
+        <time>04:53</time>
+        <album album_id="14533">这么多年以来</album>
+        <releaseDate>2015-02-24</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>8.1</score>
+    </song>
+    <song song_id="191117">
+        <songName>牧歌</songName>
+        <artist artist_id="6474">钟立风</artist>
+        <time>05:09</time>
+        <album album_id="19302">像牧歌一样忧伤</album>
+        <releaseDate>2015-03-29</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>8.8</score>
+    </song>
+    <song song_id="26427662">
+        <songName>一个人的北京</songName>
+        <artist artist_id="711683">好妹妹乐队</artist>
+        <time>05:52</time>
+        <album album_id="2497096">南北</album>
+        <releaseDate>2015-04-21</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>8.4</score>
+    </song>
+    <song song_id="264185113">
+        <songName>莉莉安</songName>
+        <artist artist_id="5073">宋东野</artist>
+        <time>04:47</time>
+        <album album_id="2646285">安和桥北</album>
+        <releaseDate>2015-04-29</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>9.4</score>
+    </song>
+    <song song_id="264185118">
+        <songName>想念你</songName>
+        <artist artist_id="3695">李健</artist>
+        <time>03:47</time>
+        <album album_id="10908">想念你</album>
+        <releaseDate>2015-04-29</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>8.6</score>
+    </song>
+    <song song_id="264185119">
+        <songName>超越</songName>
+        <artist artist_id="3695">李健</artist>
+        <time>03:47</time>
+        <album album_id="10908">想念你</album>
+        <releaseDate>2015-05-22</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>8.3</score>
+    </song>
+    <song song_id="28381611">
+        <songName>北方的女王（demo）</songName>
+        <artist artist_id="4903">尧十三</artist>
+        <time>05:57</time>
+        <album album_id="2785070">北方的女王</album>
+        <releaseDate>2015-06-29</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>8.5</score>
+    </song>
+    <song song_id="26418516">
+        <songName>九月（第三版）</songName>
+        <artist artist_id="6461">周云蓬</artist>
+        <time>06:04</time>
+        <album album_id="2489090">清炒苦瓜</album>
+        <releaseDate>2015-07-29</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>7.5</score>
+    </song>
+    <song song_id="264185111">
+        <songName>斑马，斑马</songName>
+        <artist artist_id="5073">宋东野</artist>
+        <time>04:11</time>
+        <album album_id="2646285">安和桥北</album>
+        <releaseDate>2015-12-29</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>8.7</score>
+    </song>
+    <song song_id="27646295">
+        <songName>安和桥</songName>
+        <artist artist_id="5073">宋东野</artist>
+        <time>04:11</time>
+        <album album_id="2646285">安和桥北</album>
+        <releaseDate>2016-02-29</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>9.0</score>
+    </song>
+    <song song_id="202373"
+        ><songName>南方姑娘</songName>
+        <artist artist_id="6731">赵雷</artist>
+        <time>05:32</time>
+        <album album_id="20339">赵小雷</album>
+        <releaseDate>2016-07-22</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>8.0</score>
+    </song>
+</songs>

@@ -1,0 +1,17 @@
+<!ELEMENT movies (movie*)>
+<!ELEMENT movie (movie_name,IMDb_id,director+,screenwriter*,stars*,producer*,language*,release_time,length,score)>
+<!ELEMENT movie_name (#PCDATA)>
+<!ELEMENT IMDb_id (#PCDATA)>
+<!ELEMENT director (#PCDATA)>
+<!ELEMENT screenwriter (writer+)>
+<!ELEMENT writer (#PCDATA)>
+<!ELEMENT stars (star+)>
+<!ELEMENT star (#PCDATA)>
+<!ELEMENT producer (country_region+)>
+<!ELEMENT country_region (#PCDATA)>
+<!ELEMENT language (lang+)>
+<!ELEMENT lang (#PCDATA)>
+<!ELEMENT release_time (#PCDATA)>
+<!ELEMENT length (#PCDATA)>
+<!ELEMENT score (#PCDATA)>
+<!ATTLIST star sex  (male|female) #REQUIRED>

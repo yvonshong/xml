@@ -1,0 +1,103 @@
+*******start parsing the xml document*******
+element: [songs] start parsing!
+element: [song] start parsing!
+attribute_name:index attribute_value:1
+element: [songName] start parsing!
+element_value: 风吹麦浪
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:3695
+element_value: 李健
+element: [time] start parsing!
+element_value: 04:22
+element: [album] start parsing!
+attribute_name:album_id attribute_value:10908
+element_value: 想念你
+element: [releaseDate] start parsing!
+element_value: 2015-01-29
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 9.5
+element: [song] start parsing!
+attribute_name:index attribute_value:2
+element: [songName] start parsing!
+element_value: 莉莉安
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:5073
+element_value: 宋东野
+element: [time] start parsing!
+element_value: 04:47
+element: [album] start parsing!
+attribute_name:album_id attribute_value:2646285
+element_value: 安和桥北
+element: [releaseDate] start parsing!
+element_value: 2015-04-29
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 9.4
+element: [song] start parsing!
+attribute_name:index attribute_value:3
+element: [songName] start parsing!
+element_value: 关忆北
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:5073
+element_value: 宋东野
+element: [time] start parsing!
+element_value: 04:25
+element: [album] start parsing!
+attribute_name:album_id attribute_value:2646285
+element_value: 安和桥北
+element: [releaseDate] start parsing!
+element_value: 2012-02-29
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 9.3
+element: [song] start parsing!
+attribute_name:index attribute_value:4
+element: [songName] start parsing!
+element_value: 流浪者
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:13363
+element_value: 小舟与旅行者
+element: [time] start parsing!
+element_value: 04:47
+element: [album] start parsing!
+attribute_name:album_id attribute_value:2430939
+element_value: 罗布泊
+element: [releaseDate] start parsing!
+element_value: 2015-02-22
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 9.2
+element: [song] start parsing!
+attribute_name:index attribute_value:5
+element: [songName] start parsing!
+element_value: 董小姐
+element: [artist] start parsing!
+attribute_name:artist_id attribute_value:5073
+element_value: 宋东野
+element: [time] start parsing!
+element_value: 04:11
+element: [album] start parsing!
+attribute_name:album_id attribute_value:2646285
+element_value: 安和桥北
+element: [releaseDate] start parsing!
+element_value: 2014-02-25
+element: [genre] start parsing!
+attribute_name:style attribute_value:Folk
+element: [language] start parsing!
+attribute_name:type attribute_value:国语
+element: [score] start parsing!
+element_value: 9.2
+*******end parsing the xml document*******

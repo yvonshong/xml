@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Project:XSD</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="the Project site of xml course in SEU" />
+    <meta name="keywords" content="xml, dtd, schema, seu" />
+    <meta name="author" content="FREEHTML5.CO" />
+
+    <!-- Facebook and Twitter integration -->
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="" />
+    <meta property="og:url" content="" />
+    <meta property="og:site_name" content="" />
+    <meta property="og:description" content="" />
+    <meta name="twitter:title" content="" />
+    <meta name="twitter:image" content="" />
+    <meta name="twitter:url" content="" />
+    <meta name="twitter:card" content="" />
+
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <link href='http://fonts.useso.com/css?family=PT+Sans:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+
+    <!-- Animate.css -->
+    <link rel="stylesheet" href="css/animate.css">
+    <!-- Icomoon Icon Fonts-->
+    <link rel="stylesheet" href="css/icomoon.css">
+    <!-- Simple Line Icons -->
+    <link rel="stylesheet" href="css/simple-line-icons.css">
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <!-- Owl Carousel  -->
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <!-- Style -->
+    <link rel="stylesheet" href="css/style.css">
+
+
+    <!-- Modernizr JS -->
+    <script src="js/modernizr-2.6.2.min.js"></script>
+    <!-- FOR IE9 below -->
+    <!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+
+
+    <section id="fh5co-explore" data-section="explore">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 section-heading text-center">
+                    <h2 class="to-animate">XSD</h2>
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2 subtext to-animate">
+                            <h3>The Schema of the XML.</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        
+     <div class="fh5co-services">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="call-to-action text-center to-animate"><a href="movies.xsd" class="btn btn-learn">enter the .xsd file</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+        <div class="fh5co-explore fh5co-explore-bg-color">
+            <div class="container">
+
+                    <div class="mt">
+                            <h3>Source code:</h3>
+                            
+                            <pre style="margin:15px 0;font:100 12px/18px monaco, andale mono, courier new;padding:10px 12px;border:#ccc 1px solid;border-left-width:4px;background-color:#fefefe;box-shadow:0 0 4px #eee;word-break:break-all;word-wrap:break-word;color:#444"><span style="color:#555">&lt;?xml</span>&nbsp;<span style="color:#555">version="1.0"?&gt;</span><br><span style="color:#170">&lt;xs:schema</span>&nbsp;<span style="color:#00c">xmlns:xs</span>=<span style="color:#a11">"http://www.w3.org/2001/XMLSchema"</span><span style="color:#170">&gt;</span><br><br>&nbsp;<span style="color:#170">&lt;xs:element</span>&nbsp;<span style="color:#00c">name</span>=<span style="color:#a11">"movies"</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;<span style="color:#a50">&lt;!--&nbsp; --&gt;</span><br>&nbsp;&nbsp;<span style="color:#170">&lt;xs:complexType</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;xs:choice</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;<span style="color:#170">&lt;xs:element</span>&nbsp;<span style="color:#00c">name</span>=<span style="color:#a11">"movie"</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;xs:complexType</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#170">&lt;xs:sequence</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<span style="color:#a50">&lt;!--&nbsp; --&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#170">&lt;xs:element</span>&nbsp;<span style="color:#00c">name</span>=<span style="color:#a11">"movie_name"</span>&nbsp;<span style="color:#00c">type</span>=<span style="color:#a11">"xs:string"</span><span style="color:#170">/&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a50">&lt;!--&nbsp; --&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;xs:element</span>&nbsp;<span style="color:#00c">name</span>=<span style="color:#a11">"IMBd_id"</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;xs:simpleType</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;xs:restriction</span>&nbsp;<span style="color:#00c">base</span>=<span style="color:#a11">"xs:string"</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;xs:pattern</span>&nbsp;<span style="color:#00c">value</span>=<span style="color:#a11">"[t][t][0-9][0-9][0-9][0-9][0-9][0-9][0-9]"</span><span style="color:#170">/&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;/xs:restriction</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;/xs:simpleType</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;/xs:element</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a50">&lt;!--&nbsp; --&gt;</span><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;xs:element</span>&nbsp;<span style="color:#00c">name</span>=<span style="color:#a11">"director"</span>&nbsp;<span style="color:#00c">type</span>=<span style="color:#a11">"xs:string"</span><span style="color:#170">/&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a50">&lt;!--&nbsp; --&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;xs:element</span>&nbsp;<span style="color:#00c">name</span>=<span style="color:#a11">"screenwriter"</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#170">&lt;xs:complexType</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<span style="color:#170">&lt;xs:choice</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<span style="color:#170">&lt;xs:element</span>&nbsp;<span style="color:#00c">name</span>=<span style="color:#a11">"writer"</span>&nbsp;<span style="color:#00c">type</span>=<span style="color:#a11">"xs:string"</span>&nbsp;<span style="color:#00c">maxOccurs</span>=<span style="color:#a11">"5"</span><span style="color:#170">/&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<span style="color:#170">&lt;/xs:choice</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#170">&lt;/xs:complexType</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;/xs:element</span><span style="color:#170">&gt;</span><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a50">&lt;!--&nbsp; --&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;xs:element</span>&nbsp;<span style="color:#00c">name</span>=<span style="color:#a11">"stars"</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;xs:complexType</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<span style="color:#170">&lt;xs:choice</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<span style="color:#170">&lt;xs:element</span>&nbsp;<span style="color:#00c">name</span>=<span style="color:#a11">"star"</span>&nbsp;<span style="color:#00c">type</span>=<span style="color:#a11">"xs:string"</span>&nbsp;<span style="color:#00c">maxOccurs</span>=<span style="color:#a11">"5"</span><span style="color:#170">/&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<span style="color:#170">&lt;/xs:choice</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#170">&lt;/xs:complexType</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;/xs:element</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a50">&lt;!--&nbsp; --&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;xs:element</span>&nbsp;<span style="color:#00c">name</span>=<span style="color:#a11">"producer"</span>&nbsp;<span style="color:#00c">type</span>=<span style="color:#a11">"xs:string"</span><span style="color:#170">/&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a50">&lt;!--&nbsp; --&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;xs:element</span>&nbsp;<span style="color:#00c">name</span>=<span style="color:#a11">"language"</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;xs:complexType</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<span style="color:#170">&lt;xs:choice</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<span style="color:#170">&lt;xs:element</span>&nbsp;<span style="color:#00c">name</span>=<span style="color:#a11">"lang"</span>&nbsp;<span style="color:#00c">type</span>=<span style="color:#a11">"xs:string"</span>&nbsp;<span style="color:#00c">maxOccurs</span>=<span style="color:#a11">"5"</span><span style="color:#170">/&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<span style="color:#170">&lt;/xs:choice</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#170">&lt;/xs:complexType</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;/xs:element</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<span style="color:#a50">&lt;!--&nbsp; --&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;xs:element</span>&nbsp;<span style="color:#00c">name</span>=<span style="color:#a11">"release_time"</span>&nbsp;<span style="color:#00c">type</span>=<span style="color:#a11">"xs:date"</span><span style="color:#170">/&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a50">&lt;!--&nbsp; --&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;xs:element</span>&nbsp;<span style="color:#00c">name</span>=<span style="color:#a11">"length"</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;xs:simpleType</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;xs:restriction</span>&nbsp;<span style="color:#00c">base</span>=<span style="color:#a11">"xs:string"</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;xs:pattern</span>&nbsp;<span style="color:#00c">value</span>=<span style="color:#a11">"[1-9][0-9]*[m][i][n]"</span><span style="color:#170">/&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;/xs:restriction</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;/xs:simpleType</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;/xs:element</span><span style="color:#170">&gt;</span><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#a50">&lt;!--&nbsp; --&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;xs:element</span>&nbsp;<span style="color:#00c">name</span>=<span style="color:#a11">"score"</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;xs:simpleType</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#170">&lt;xs:restriction</span>&nbsp;<span style="color:#00c">base</span>=<span style="color:#a11">"xs:decimal"</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#170">&lt;xs:minInclusive</span>&nbsp;<span style="color:#00c">value</span>=<span style="color:#a11">"0"</span><span style="color:#170">/&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;xs:maxInclusive</span>&nbsp;<span style="color:#00c">value</span>=<span style="color:#a11">"10"</span><span style="color:#170">/&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;/xs:restriction</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;/xs:simpleType</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#170">&lt;/xs:element</span><span style="color:#170">&gt;</span>&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#170">&lt;/xs:sequence</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<span style="color:#170">&lt;/xs:complexType</span><span style="color:#170">&gt;</span><br><br>&nbsp;&nbsp;<span style="color:#170">&lt;/xs:element</span><span style="color:#170">&gt;</span><br>&nbsp;<span style="color:#170">&lt;/xs:choice</span><span style="color:#170">&gt;</span><br>&nbsp;<span style="color:#170">&lt;/xs:complexType</span><span style="color:#170">&gt;</span><br>&nbsp;<span style="color:#170">&lt;/xs:element</span><span style="color:#170">&gt;</span><br><span style="color:#170">&lt;xs:attribute</span>&nbsp;<span style="color:#00c">name</span>=<span style="color:#a11">"sex"</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp; <span style="color:#170">&lt;xs:simpleType</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#170">&lt;xs:restriction</span>&nbsp;<span style="color:#00c">base</span>=<span style="color:#a11">"xs:string"</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#170">&lt;xs:enumeration</span>&nbsp;<span style="color:#00c">value</span>=<span style="color:#a11">"male"</span><span style="color:#170">/&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#170">&lt;xs:enumeration</span>&nbsp;<span style="color:#00c">value</span>=<span style="color:#a11">"female"</span><span style="color:#170">/&gt;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#170">&lt;/xs:restriction</span><span style="color:#170">&gt;</span><br>&nbsp;&nbsp;&nbsp; <span style="color:#170">&lt;/xs:simpleType</span><span style="color:#170">&gt;</span><br><span style="color:#170">&lt;/xs:attribute</span><span style="color:#170">&gt;</span><br><span style="color:#170">&lt;/xs:schema</span><span style="color:#170">&gt;</span></pre>
+                            
+                            
+                            
+                           
+                    </div>
+   
+            </div>
+
+        </div>
+
+
+        <div class="fh5co-services">
+            <div class="container">
+                <div class="row">
+
+                    <div class="call-to-action text-center to-animate"><a href="index.html#project" class="btn btn-learn">back to home page</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- jQuery -->
+    <script src="js/jquery.min.js"></script>
+    <!-- jQuery Easing -->
+    <script src="js/jquery.easing.1.3.js"></script>
+    <!-- Bootstrap -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- Waypoints -->
+    <script src="js/jquery.waypoints.min.js"></script>
+    <!-- Stellar Parallax -->
+    <script src="js/jquery.stellar.min.js"></script>
+    <!-- Owl Carousel -->
+    <script src="js/owl.carousel.min.js"></script>
+    <!-- Google Map -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA&sensor=false"></script>
+    <script src="js/google_map.js"></script>
+    <!-- Main JS (Do not remove) -->
+    <script src="js/main.js"></script>
+
+    </body>
+
+</html>

@@ -1,0 +1,32 @@
+<songs>
+    <song song_id="27646295">
+        <songName>安和桥</songName>
+        <artist artist_id="5073">宋东野</artist>
+        <time>04:11</time>
+        <album album_id="2646285">安和桥北</album>
+        <releaseDate>2016-02-29</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>9.0</score>
+    </song>
+    <song song_id="145244">
+        <songName>岁月</songName>
+        <artist artist_id="4937">沈庆</artist>
+        <time>04:53</time>
+        <album album_id="14533">这么多年以来</album>
+        <releaseDate>2015-02-24</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>8.1</score>
+    </song>
+    <song song_id="202373">
+        <songName>南方姑娘</songName>
+        <artist artist_id="6731">赵雷</artist>
+        <time>05:32</time>
+        <album album_id="20339">赵小雷</album>
+        <releaseDate>2016-07-22</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>8.0</score>
+    </song>
+</songs>

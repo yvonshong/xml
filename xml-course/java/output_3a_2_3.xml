@@ -1,0 +1,52 @@
+<songs>
+    <song index="1">
+        <songName>风吹麦浪</songName>
+        <artist artist_id="3695">李健</artist>
+        <time>04:22</time>
+        <album album_id="10908">想念你</album>
+        <releaseDate>2015-01-29</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>9.5</score>
+    </song>
+    <song index="2">
+        <songName>莉莉安</songName>
+        <artist artist_id="5073">宋东野</artist>
+        <time>04:47</time>
+        <album album_id="2646285">安和桥北</album>
+        <releaseDate>2015-04-29</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>9.4</score>
+    </song>
+    <song index="3">
+        <songName>关忆北</songName>
+        <artist artist_id="5073">宋东野</artist>
+        <time>04:25</time>
+        <album album_id="2646285">安和桥北</album>
+        <releaseDate>2012-02-29</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>9.3</score>
+    </song>
+    <song index="4">
+        <songName>流浪者</songName>
+        <artist artist_id="13363">小舟与旅行者</artist>
+        <time>04:47</time>
+        <album album_id="2430939">罗布泊</album>
+        <releaseDate>2015-02-22</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>9.2</score>
+    </song>
+    <song index="5">
+        <songName>董小姐</songName>
+        <artist artist_id="5073">宋东野</artist>
+        <time>04:11</time>
+        <album album_id="2646285">安和桥北</album>
+        <releaseDate>2014-02-25</releaseDate>
+        <genre style="Folk"/>
+        <language type="国语"/>
+        <score>9.2</score>
+    </song>
+</songs>
