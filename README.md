@@ -9,18 +9,6 @@ To write the design of DTD, Schema and some codes about XML in the course of XML
 ##Group 8 Name：**Sandalphon**
 ![胎天使](http://h.hiphotos.baidu.com/baike/w%3D268/sign=1a9f33c17f899e51788e3d127aa7d990/f703738da97739129c7e655dfc198618367ae2b6.jpg)
 
-张雷铭 71113319 (leader's email address: 522571362@qq.com) 
-
-宋代伟 71113334 (the owner of this repo) 
-
-韩畅 71113317
-
- 
-
-
-
-
-
 
 
 ##Update log
